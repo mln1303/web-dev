@@ -1,2 +1,2 @@
-# web-dev
+# Restaurent site
 Restaurent site using HTML,CSS,Bootstrap
